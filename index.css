@@ -3,9 +3,16 @@
 .h12 {
  font-family: "Roboto", Arial, Helvetica, sans-serif;
   text-align: center;
-  font-color: fff;
+  font-color: 000000;
   font-size: 20px;
 }
+.L {
+ font-family: "Roboto", Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-color: 000000;
+  font-size: 29px;
+ }
+ 
   body {
   font-family: "Roboto", Arial, Helvetica, sans-serif;
   margin: 0;
